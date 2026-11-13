@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản Lý Sân Bóng</string>
+    <string name="title_fields">Sân bóng</string>
+    <string name="title_add_booking">Đặt sân</string>
+    <string name="title_bookings">Đơn đặt sân</string>
+</resources>
